@@ -1,5 +1,10 @@
-package Employee_Management;
+package Emp_Management;
 
-public class Main {
-    
-}
+import Emp_Management.View.Mainimp;
+
+    public class Main {
+        public static void main(String[] args) {
+        new Mainimp();
+        }
+    }
+

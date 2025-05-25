@@ -1,7 +1,7 @@
-package Employee_Management.DAO;
+package Emp_Management.DAO;
 
 import java.util.List;
-import Employee_Management.Model.Employee;
+import Emp_Management.Model.Employee;
     
 public interface EmployeeDAO {
         // standard database operations:

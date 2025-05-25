@@ -1,6 +1,6 @@
-package Employee_Management.DAO;
+package Emp_Management.DAO;
 
-import Employee_Management.Model.Employee;
+import Emp_Management.Model.Employee;
 
 public  abstract class EmployeeDBAbstract implements EmployeeDAO {
 

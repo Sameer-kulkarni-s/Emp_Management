@@ -1,5 +1,5 @@
 
-package Employee_Management.Model;
+package Emp_Management.Model;
 
 
 import java.math.BigDecimal;
